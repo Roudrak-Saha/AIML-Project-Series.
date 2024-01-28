@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "admission procedures",
+      "answer": "Contact the admissions office at <email> or <phone number> for detailed information.\n"
+    },
+    {
+      "question": "requirements",
+      "answer": "Vary depending on program, but typically include GPA, standardized test scores, and essays.\n"
+    },
+    {
+      "question": "deadlines",
+      "answer": "Early action deadline is typically November 1, regular decision is January 1.\n"
+    },
+    {
+      "question": "what should I include in my essays",
+      "answer": "Highlight your academic achievements, extracurricular activities, and personal goals.\n"
+    },
+    {
+      "question": "what are your top programs",
+      "answer": "We offer excellent programs in computer science, engineering, and business.\n"
+    }
+  ]
+}
